@@ -1,0 +1,30 @@
+_repo: The-inner-house_52169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2016-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immortality -- Fiction'
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- GITenberg
+title: The inner house
+url: http://www.gutenberg.org/ebooks/52169
